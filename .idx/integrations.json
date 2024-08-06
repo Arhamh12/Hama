@@ -1,0 +1,6 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://hama-it-solutions.web.app"
+  },
+  "cloud_run_deploy": {}
+}
